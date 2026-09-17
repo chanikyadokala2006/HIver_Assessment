@@ -1,0 +1,13 @@
+pandas
+sqlalchemy
+psycopg2-binary
+langchain
+langchain-google-genai
+langchain-chroma
+chromadb
+pydantic
+python-dotenv
+rouge-score
+tenacity
+langchain-huggingface
+sentence-transformers
